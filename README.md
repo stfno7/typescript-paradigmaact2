@@ -8,7 +8,7 @@ Demostrar el uso del paradigma de Programación Orientada a Objetos (POO) median
 ## Requisitos
 Node.js instalado
 
-npm ##Instalación
+Ingresar en una terminal desde un editor de codigo
 
 git clone https://github.com/stfno7/typescript-paradigmaact2
 
@@ -19,3 +19,5 @@ npm install
 npx tsc
 
 node dist/index.js
+
+// Mostrar el resultado en pantalla del código.
